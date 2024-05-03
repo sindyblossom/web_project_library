@@ -350,7 +350,6 @@
   flex-direction: column;
   margin-left: auto;
   display: flex;
-  flex-direction: column;
 }
 
 .footer__column_content_social {
